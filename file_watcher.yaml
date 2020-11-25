@@ -1,0 +1,5 @@
+mapping:
+  #file command mapping
+  #demo
+  #./nginx.conf: nginx -s reload
+  /Users/mingsheng6/openresty/conf/nginx.conf: /usr/local/opt/openresty/nginx/sbin/nginx -s reload
